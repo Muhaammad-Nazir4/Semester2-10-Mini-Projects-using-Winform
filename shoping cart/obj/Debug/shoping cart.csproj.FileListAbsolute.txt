@@ -1,0 +1,20 @@
+E:\shoping cart\bin\Debug\shoping cart.exe.config
+E:\shoping cart\bin\Debug\shoping cart.exe
+E:\shoping cart\bin\Debug\shoping cart.pdb
+E:\shoping cart\obj\Debug\shoping cart.csproj.AssemblyReference.cache
+E:\shoping cart\obj\Debug\shoping_cart.Form1.resources
+E:\shoping cart\obj\Debug\shoping_cart.Properties.Resources.resources
+E:\shoping cart\obj\Debug\shoping cart.csproj.GenerateResource.cache
+E:\shoping cart\obj\Debug\shoping cart.csproj.CoreCompileInputs.cache
+E:\shoping cart\obj\Debug\shoping cart.exe
+E:\shoping cart\obj\Debug\shoping cart.pdb
+E:\Assignments GUI based\shoping cart\bin\Debug\shoping cart.exe.config
+E:\Assignments GUI based\shoping cart\bin\Debug\shoping cart.exe
+E:\Assignments GUI based\shoping cart\bin\Debug\shoping cart.pdb
+E:\Assignments GUI based\shoping cart\obj\Debug\shoping cart.csproj.AssemblyReference.cache
+E:\Assignments GUI based\shoping cart\obj\Debug\shoping_cart.Form1.resources
+E:\Assignments GUI based\shoping cart\obj\Debug\shoping_cart.Properties.Resources.resources
+E:\Assignments GUI based\shoping cart\obj\Debug\shoping cart.csproj.GenerateResource.cache
+E:\Assignments GUI based\shoping cart\obj\Debug\shoping cart.csproj.CoreCompileInputs.cache
+E:\Assignments GUI based\shoping cart\obj\Debug\shoping cart.exe
+E:\Assignments GUI based\shoping cart\obj\Debug\shoping cart.pdb

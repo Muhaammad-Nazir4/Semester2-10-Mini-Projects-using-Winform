@@ -1,0 +1,10 @@
+E:\colorChange\bin\Debug\colorChange.exe.config
+E:\colorChange\bin\Debug\colorChange.exe
+E:\colorChange\bin\Debug\colorChange.pdb
+E:\colorChange\obj\Debug\colorChange.csproj.AssemblyReference.cache
+E:\colorChange\obj\Debug\colorChange.Form1.resources
+E:\colorChange\obj\Debug\colorChange.Properties.Resources.resources
+E:\colorChange\obj\Debug\colorChange.csproj.GenerateResource.cache
+E:\colorChange\obj\Debug\colorChange.csproj.CoreCompileInputs.cache
+E:\colorChange\obj\Debug\colorChange.exe
+E:\colorChange\obj\Debug\colorChange.pdb

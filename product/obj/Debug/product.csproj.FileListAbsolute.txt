@@ -1,0 +1,14 @@
+E:\product\bin\Debug\product.exe.config
+E:\product\bin\Debug\product.exe
+E:\product\bin\Debug\product.pdb
+E:\product\obj\Debug\product.csproj.AssemblyReference.cache
+E:\product\obj\Debug\product.csproj.CoreCompileInputs.cache
+E:\product\obj\Debug\product.exe
+E:\product\obj\Debug\product.pdb
+E:\assignment\product\obj\Debug\product.csproj.AssemblyReference.cache
+E:\assignment\product\obj\Debug\product.csproj.CoreCompileInputs.cache
+E:\assignment\product\obj\Debug\product.exe
+E:\assignment\product\obj\Debug\product.pdb
+E:\assignment\product\bin\Debug\product.exe.config
+E:\assignment\product\bin\Debug\product.exe
+E:\assignment\product\bin\Debug\product.pdb

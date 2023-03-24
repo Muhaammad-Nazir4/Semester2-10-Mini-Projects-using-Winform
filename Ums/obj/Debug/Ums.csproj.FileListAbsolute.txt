@@ -1,0 +1,7 @@
+E:\Ums\bin\Debug\Ums.exe.config
+E:\Ums\bin\Debug\Ums.exe
+E:\Ums\bin\Debug\Ums.pdb
+E:\Ums\obj\Debug\Ums.csproj.AssemblyReference.cache
+E:\Ums\obj\Debug\Ums.csproj.CoreCompileInputs.cache
+E:\Ums\obj\Debug\Ums.exe
+E:\Ums\obj\Debug\Ums.pdb

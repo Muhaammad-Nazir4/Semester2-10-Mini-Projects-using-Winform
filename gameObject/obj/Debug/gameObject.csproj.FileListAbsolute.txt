@@ -1,0 +1,14 @@
+E:\gameObject\obj\Debug\gameObject.csproj.AssemblyReference.cache
+E:\gameObject\obj\Debug\gameObject.csproj.CoreCompileInputs.cache
+E:\gameObject\bin\Debug\gameObject.exe.config
+E:\gameObject\bin\Debug\gameObject.exe
+E:\gameObject\bin\Debug\gameObject.pdb
+E:\gameObject\obj\Debug\gameObject.exe
+E:\gameObject\obj\Debug\gameObject.pdb
+D:\assignment\gameObject\bin\Debug\gameObject.exe.config
+D:\assignment\gameObject\bin\Debug\gameObject.exe
+D:\assignment\gameObject\bin\Debug\gameObject.pdb
+D:\assignment\gameObject\obj\Debug\gameObject.csproj.AssemblyReference.cache
+D:\assignment\gameObject\obj\Debug\gameObject.csproj.CoreCompileInputs.cache
+D:\assignment\gameObject\obj\Debug\gameObject.exe
+D:\assignment\gameObject\obj\Debug\gameObject.pdb

@@ -1,0 +1,14 @@
+E:\tesha\bin\Debug\tesha.exe.config
+E:\tesha\bin\Debug\tesha.exe
+E:\tesha\bin\Debug\tesha.pdb
+E:\tesha\obj\Debug\tesha.csproj.AssemblyReference.cache
+E:\tesha\obj\Debug\tesha.csproj.CoreCompileInputs.cache
+E:\tesha\obj\Debug\tesha.exe
+E:\tesha\obj\Debug\tesha.pdb
+E:\assignment\tesha\bin\Debug\tesha.exe.config
+E:\assignment\tesha\bin\Debug\tesha.exe
+E:\assignment\tesha\bin\Debug\tesha.pdb
+E:\assignment\tesha\obj\Debug\tesha.csproj.AssemblyReference.cache
+E:\assignment\tesha\obj\Debug\tesha.csproj.CoreCompileInputs.cache
+E:\assignment\tesha\obj\Debug\tesha.exe
+E:\assignment\tesha\obj\Debug\tesha.pdb

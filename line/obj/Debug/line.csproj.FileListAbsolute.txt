@@ -1,0 +1,14 @@
+E:\line\obj\Debug\line.csproj.AssemblyReference.cache
+E:\line\obj\Debug\line.csproj.CoreCompileInputs.cache
+E:\line\bin\Debug\line.exe.config
+E:\line\bin\Debug\line.exe
+E:\line\bin\Debug\line.pdb
+E:\line\obj\Debug\line.exe
+E:\line\obj\Debug\line.pdb
+E:\assignment\line\bin\Debug\line.exe.config
+E:\assignment\line\bin\Debug\line.exe
+E:\assignment\line\bin\Debug\line.pdb
+E:\assignment\line\obj\Debug\line.csproj.AssemblyReference.cache
+E:\assignment\line\obj\Debug\line.csproj.CoreCompileInputs.cache
+E:\assignment\line\obj\Debug\line.exe
+E:\assignment\line\obj\Debug\line.pdb

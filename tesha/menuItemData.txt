@@ -1,0 +1,3 @@
+juice,drink,100
+burger,food,100
+slush,drink,50

@@ -1,0 +1,2 @@
+d,23,23,north,23,2,west
+g,2,2,north,2,2,west

@@ -1,0 +1,20 @@
+E:\calculatorGUI\bin\Debug\calculatorGUI.exe.config
+E:\calculatorGUI\bin\Debug\calculatorGUI.exe
+E:\calculatorGUI\bin\Debug\calculatorGUI.pdb
+E:\calculatorGUI\obj\Debug\calculatorGUI.csproj.AssemblyReference.cache
+E:\calculatorGUI\obj\Debug\calculatorGUI.Form1.resources
+E:\calculatorGUI\obj\Debug\calculatorGUI.Properties.Resources.resources
+E:\calculatorGUI\obj\Debug\calculatorGUI.csproj.GenerateResource.cache
+E:\calculatorGUI\obj\Debug\calculatorGUI.csproj.CoreCompileInputs.cache
+E:\calculatorGUI\obj\Debug\calculatorGUI.exe
+E:\calculatorGUI\obj\Debug\calculatorGUI.pdb
+E:\Assignments GUI based\calculatorGUI\bin\Debug\calculatorGUI.exe.config
+E:\Assignments GUI based\calculatorGUI\bin\Debug\calculatorGUI.exe
+E:\Assignments GUI based\calculatorGUI\bin\Debug\calculatorGUI.pdb
+E:\Assignments GUI based\calculatorGUI\obj\Debug\calculatorGUI.csproj.AssemblyReference.cache
+E:\Assignments GUI based\calculatorGUI\obj\Debug\calculatorGUI.Form1.resources
+E:\Assignments GUI based\calculatorGUI\obj\Debug\calculatorGUI.Properties.Resources.resources
+E:\Assignments GUI based\calculatorGUI\obj\Debug\calculatorGUI.csproj.GenerateResource.cache
+E:\Assignments GUI based\calculatorGUI\obj\Debug\calculatorGUI.csproj.CoreCompileInputs.cache
+E:\Assignments GUI based\calculatorGUI\obj\Debug\calculatorGUI.exe
+E:\Assignments GUI based\calculatorGUI\obj\Debug\calculatorGUI.pdb
